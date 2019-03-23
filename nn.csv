@@ -1,0 +1,2 @@
+,accuracy,error_rate,f_measure,false_pos,precision,recall,sensitivity,specificity
+Neural Network,0.868186,0.131814,0.712178,0.071238,0.750955,0.67721,0.67721,0.928762
